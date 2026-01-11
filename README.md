@@ -10,7 +10,7 @@ The model uses the following features:
 
 **Genetic:**
 - TP53, KRAS, PIK3CA, PTEN mutation status
-- TP53, KRAS, PIK3CA, PTEN mutation types
+
 
 **Clinical:**
 - Cancer type (NSCLC/CRC)
